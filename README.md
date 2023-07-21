@@ -207,7 +207,7 @@ If you have questions or suggestions on how to improve the information on this p
 
 <div align="center"  >
 <a href="assets/steps/README.quickdraw.md">
-<img width="296" src="image/Quickdraw.png" alt="QuickDraw-Pin">
+<img width="296" src="assets/badges/Quickdraw.png" alt="QuickDraw-Pin">
 </a>
 </div>
 <hr>
@@ -218,14 +218,14 @@ If you have questions or suggestions on how to improve the information on this p
 
 #### - If you need more help, click on the How to Get button to get a step-by-step tutorial on how to get this achievement.
 
-<div align="center"><a href="assets/steps/README.quickdraw.md"><img src="image/btn.png" alt=""></a></div>
+<div align="center"><a href="assets/steps/README.quickdraw.md"><img src="assets/img/btn.png" alt=""></a></div>
 <hr>
 
 <br>
 
 <div align="center"  >
 <a href="assets/steps/README.yolo.md">
-<img width="296" src="image/Yolo.png" alt="Yolo-Pin">
+<img width="296" src="assets/badges/Yolo.png" alt="Yolo-Pin">
 </a>
 </div>
 <hr>
@@ -236,14 +236,14 @@ If you have questions or suggestions on how to improve the information on this p
 
 #### - If you need more help, click on the How to Get button to get a step-by-step tutorial on how to get this achievement.
 
-<div align="center"><a href="assets/steps/README.yolo.md"><img src="image/btn.png" alt=""></a></div>
+<div align="center"><a href="assets/steps/README.yolo.md"><img src="assets/img/btn.png" alt=""></a></div>
 <hr>
 
 <br>
 
 <div align="center"  >
 <a href="assets/steps/README.galaxy-brain.md">
-<img width="296" src="image/GalaxyBrain.png" alt="GalaxyBrain-Pin">
+<img width="296" src="assets/badges/GalaxyBrain.png" alt="GalaxyBrain-Pin">
 </a>
 </div>
 <hr>
@@ -254,14 +254,14 @@ If you have questions or suggestions on how to improve the information on this p
 
 #### - If you need more help, click on the How to Get button to get a step-by-step tutorial on how to get this achievement.
 
-<div align="center"><a href="assets/steps/README.galaxy-brain.md"><img src="image/btn.png" alt=""></a></div>
+<div align="center"><a href="assets/steps/README.galaxy-brain.md"><img src="assets/img/btn.png" alt=""></a></div>
 <hr>
 
 <br>
 
 <div align="center"  >
 <a href="assets/steps/README.pull-shark.md">
-<img width="296" src="image/PullShark.png" alt="PullShark-Pin">
+<img width="296" src="assets/badges/PullShark.png" alt="PullShark-Pin">
 </a>
 </div>
 <hr>
@@ -272,14 +272,14 @@ If you have questions or suggestions on how to improve the information on this p
 
 #### - If you need more help, click on the How to Get button to get a step-by-step tutorial on how to get this achievement.
 
-<div align="center"><a href="assets/steps/README.pull-shark.md"><img src="image/btn.png" alt=""></a></div>
+<div align="center"><a href="assets/steps/README.pull-shark.md"><img src="assets/img/btn.png" alt=""></a></div>
 <hr>
 
 <br>
 
 <div align="center"  >
 <a href="assets/steps/README.starstruck.md">
-<img width="296" src="image/Starstruck.png" alt="Starstruck-Pin">
+<img width="296" src="assets/badges/Starstruck.png" alt="Starstruck-Pin">
 </a>
 </div>
 <hr>
@@ -290,14 +290,14 @@ If you have questions or suggestions on how to improve the information on this p
 
 #### - If you need more help, click on the How to Get button to get a step-by-step tutorial on how to get this achievement.
 
-<div align="center"><a href="assets/steps/README.starstruck.md"><img src="image/btn.png" alt=""></a></div>
+<div align="center"><a href="assets/steps/README.starstruck.md"><img src="assets/img/btn.png" alt=""></a></div>
 <hr>
 
 <br>
 
 <div align="center"  >
 <a href="assets/steps/README.pair-extraordinaire.md">
-<img width="296" src="image/PairExtraordinaire.png" alt="PairExtraordinaire-Pin">
+<img width="296" src="assets/badges/PairExtraordinaire.png" alt="PairExtraordinaire-Pin">
 </a>
 </div>
 <hr>
@@ -308,14 +308,14 @@ If you have questions or suggestions on how to improve the information on this p
 
 #### - If you need more help, click on the How to Get button to get a step-by-step tutorial on how to get this achievement.
 
-<div align="center"><a href="assets/steps/README.pair-extraordinaire.md"><img src="image/btn.png" alt=""></a></div>
+<div align="center"><a href="assets/steps/README.pair-extraordinaire.md"><img src="assets/img/btn.png" alt=""></a></div>
 <hr>
 
 <br>
 
 <div align="center"  >
 <a href="assets/steps/README.publicsponsor.md">
-<img width="296" src="image/PublicSponsor.png" alt="PublicSponsor-Pin">
+<img width="296" src="assets/badges/PublicSponsor.png" alt="PublicSponsor-Pin">
 </a>
 </div>
 <hr>
@@ -326,7 +326,7 @@ If you have questions or suggestions on how to improve the information on this p
 
 #### - If you need more help, click on the How to Get button to get a step-by-step tutorial on how to get this achievement.
 
-<div align="center"><a href="assets/steps/README.publicsponsor.md"><img src="image/btn.png" alt=""></a></div>
+<div align="center"><a href="assets/steps/README.publicsponsor.md"><img src="assets/img/btn.png" alt=""></a></div>
 
 <hr>
 
@@ -338,7 +338,7 @@ If you have questions or suggestions on how to improve the information on this p
 
 <div align="center"  >
 <a href="">
-<img width="296" src="image/HeartOnYourSleeve.png" alt="HeartOnYourSleeve-Pin">
+<img width="296" src="assets/badges/HeartOnYourSleeve.png" alt="HeartOnYourSleeve-Pin">
 </a>
 </div>
 <hr>
@@ -351,7 +351,7 @@ If you have questions or suggestions on how to improve the information on this p
 <br>
 
 <div align="center"  >
-<img width="296" src="image/OpenSourcerer.png" alt="OpenSourcerer-Pin">
+<img width="296" src="assets/badges/OpenSourcerer.png" alt="OpenSourcerer-Pin">
 </div>
 <hr>
 
@@ -368,7 +368,7 @@ If you have questions or suggestions on how to improve the information on this p
 
 <div align="center"  >
 <a href="https://github.com/readme/featured/nasa-ingenuity-helicopter">
-<img width="296" src="image/Mars-2020-Contributor.png" alt="Mars 2020 Contributor">
+<img width="296" src="assets/badges/Mars-2020-Contributor.png" alt="Mars 2020 Contributor">
 </a>
 </div>
 <hr>
@@ -381,7 +381,7 @@ If you have questions or suggestions on how to improve the information on this p
 
 <div align="center"  >
 <a href="https://archiveprogram.github.com/">
-<img width="296" src="image/Arctic-Code-Vault-Contributor.png" alt="Mars 2020 Contributor">
+<img width="296" src="assets/badges/Arctic-Code-Vault-Contributor.png" alt="Mars 2020 Contributor">
 </a>
 </div>
 <hr>
