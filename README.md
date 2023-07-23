@@ -9,7 +9,6 @@
     <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/65187002/172941127-4061fac1-736b-4c24-b7ea-c210b3578cc5.png">
     <img width="50%" src="https://user-images.githubusercontent.com/65187002/172941149-31258408-bfc3-496a-8a58-e34794b21813.png">
   </picture>
-</div>
 
 # Displaying Achievements 
 
