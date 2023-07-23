@@ -1,5 +1,3 @@
-#
-
 <div align="center">
 
   # Github-Badges-Achievements
