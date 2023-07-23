@@ -66,8 +66,6 @@
 
 <br>
 
-####  
-
 # Complete list of all GitHub Profile badges and Achievements
 
 #### Displaying achievements on your profile is completely optional; by default, they can be seen by anyone viewing your public profile.
@@ -86,7 +84,7 @@ You can opt out from having achievements displayed on your profile by going to y
 | ![Achievement badge Pull Shark](https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png) | **Pull Shark** | **2 pull requests** merged.                                                                                                            |
 | ![Achievement badge Galaxy Brain](https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png) | **Galaxy Brain** | 2 accepted answers.                                                                                                                      |
 | ![Achievement badge YOLO](https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png) | **YOLO** | Merged **at least one** pull request without code review .                                                                                                       |
-| ![Achievement badge Public Sponsor](https://github.githubassets.com/images/modules/profile/achievements/public-sponsor-default.png) | **Public Sponsor** | Sponsoring open source work via [GitHub Sponsors](https://github.com/sponsors.                                                                                  |
+| ![Achievement badge Public Sponsor](https://github.githubassets.com/images/modules/profile/achievements/public-sponsor-default.png) | **Public Sponsor** | Sponsoring open source work via [GitHub Sponsors](https://github.com/sponsors)                                                                                  |
 | ![Achievement badge Mars 2020 Contributor](https://github.githubassets.com/images/modules/profile/achievements/mars-2020-contributor-default.png) | **Mars 2020 Contributor** | Contributed code to repositories used in the [Mars 2020 Helicopter Mission](https://github.com/readme/featured/nasa-ingenuity-helicopter). *Now unable to earn.* |
 | ![Achievement badge 2020 GitHub Archive Program](https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png) | **Arctic Code Vault Contributor** | Contributed code to a repository in the [2020 GitHub Archive Program](https://archiveprogram.github.com/). *Now unable to earn.*                                 |
 
