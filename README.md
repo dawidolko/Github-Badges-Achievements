@@ -40,7 +40,7 @@
 
 <br>
 
-# 👋 Achievement Skin Tone 👋
+# Achievement Skin Tone
 
 #### Some achievements' appearance depends on your Emoji Skin Tone Preference.
 
@@ -50,12 +50,12 @@
 
 | Badge | Name | Skin Tone Versions | 
 | :-: | :-: | :-: |
-| ![Starstruck](images/StarStruck_SkinTone1.png)                 | Starstruck         | <table>  <thead>  <tr>  <th>👋</th> <th>👋🏻</th>  <th>👋🏼</th>  <th>👋🏽</th>  <th>👋🏾</th>  <th>👋🏿</th>  </tr>  </thead>  <tbody>  <tr>  <td align="center"><img src="images/StarStruck_SkinTone1.png" width="60px"></td>   <td align="center"><img src="/Media/Badges/Star-Struck/PNG/Skin-Tones/StarStruck_SkinTone2.png" width="60px"></td>  <td align="center"><img src="/Media/Badges/Star-Struck/PNG/Skin-Tones/StarStruck_SkinTone3.png" width="60px"></td>  <td align="center"><img src="/Media/Badges/Star-Struck/PNG/Skin-Tones/StarStruck_SkinTone4.png" width="60px"></td>  <td align="center"><img src="images/StarStruck_SkinTone5.png" width="60px"></td>   <td align="center"><img src="images/StarStruck_SkinTone6.png" width="60px"></td>   </tr>   <tr>  <td align="center">👋</td> <td align="center">👋🏻</td>  <td align="center">👋🏼</td>  <td align="center">👋🏽</td>  <td align="center">👋🏾</td>  <td align="center">👋🏿</td>  </tr>  </tbody>  </table>      |
+| ![Starstruck](images/StarStruck_SkinTone1.png)                 | Starstruck         | <table>  <thead>  <tr>  <th>👋</th> <th>👋🏻</th>  <th>👋🏼</th>  <th>👋🏽</th>  <th>👋🏾</th>  <th>👋🏿</th>  </tr>  </thead>  <tbody>  <tr>  <td align="center"><img src="images/StarStruck_SkinTone1.png" width="60px"></td>   <td align="center"><img src="images/StarStruck_SkinTone2.png" width="60px"></td>  <td align="center"><img src="images/StarStruck_SkinTone3.png" width="60px"></td>  <td align="center"><img src="images/StarStruck_SkinTone4.png" width="60px"></td>  <td align="center"><img src="images/StarStruck_SkinTone5.png" width="60px"></td>   <td align="center"><img src="images/StarStruck_SkinTone6.png" width="60px"></td>   </tr>   <tr>  <td align="center">👋</td> <td align="center">👋🏻</td>  <td align="center">👋🏼</td>  <td align="center">👋🏽</td>  <td align="center">👋🏾</td>  <td align="center">👋🏿</td>  </tr>  </tbody>  </table>      |
 | ![Quickdraw](images/QuickDraw_SkinTone1.png)                 | Quickdraw         | <table>  <thead>  <tr>  <th>👋</th> <th>👋🏻</th>  <th>👋🏼</th>  <th>👋🏽</th>  <th>👋🏾</th>  <th>👋🏿</th>  </tr>  </thead>  <tbody>  <tr>  <td align="center"><img src="images/QuickDraw_SkinTone1.png" width="60px"></td>   <td align="center"><img src="images/QuickDraw_SkinTone2.png" width="60px"></td>  <td align="center"><img src="images/QuickDraw_SkinTone3.png" width="60px"></td>  <td align="center"><img src="images/QuickDraw_SkinTone4.png" width="60px"></td>  <td align="center"><img src="images/QuickDraw_SkinTone5.png" width="60px"></td>   <td align="center"><img src="images/QuickDraw_SkinTone6.png" width="60px"></td>   </tr>   <tr>  <td align="center">👋</td> <td align="center">👋🏻</td>  <td align="center">👋🏼</td>  <td align="center">👋🏽</td>  <td align="center">👋🏾</td>  <td align="center">👋🏿</td>  </tr>  </tbody>  </table>      |
 
 <br>
 
-# ❌ Badges no longer earnable ❌
+# Badges no longer earnable 
 <br>
 
 | Badge | Name | How to get | Needed amount | 
@@ -391,4 +391,4 @@ If you have questions or suggestions on how to improve the information on this p
 
 <hr>
 
-<br>
+# © 2023 Dawid Olko. All rights reserved. 
