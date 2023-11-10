@@ -2,7 +2,7 @@
 
 <div align="center"  >
 
-<img width="296" src="assets/img/badges/GalaxyBrain.png" alt="QuickDraw-Pin">
+<img width="296" src="../assets/img/badges/GalaxyBrain.png" alt="QuickDraw-Pin">
 </div>
 
 <hr>
