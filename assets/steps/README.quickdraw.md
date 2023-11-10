@@ -4,7 +4,7 @@ layout: default
 
 # Quickdraw
 
-<div align="center"  >
+<div align="center">
 
 <img width="296" src="../badges/Quickdraw.png" alt="QuickDraw-Pin">
 </div>
