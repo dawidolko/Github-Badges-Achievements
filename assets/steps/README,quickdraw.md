@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Quickdraw
 
 <div align="center"  >
