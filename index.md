@@ -130,7 +130,7 @@ If you have questions or suggestions on how to improve the information on this p
 
 #### - If you need more help, click on the How to Get button to get a step-by-step tutorial on how to get this achievement.
 
-[![quickdraw](assets/img/btn.png)](assets/steps/READMEquickdraw.md)
+[![quickdraw](assets/img/btn.png)](assets/steps)
 <div align="center"><a href="assets/steps/READMEquickdraw.md"><img src="assets/img/btn.png" alt=""></a></div>
 <hr>
 
