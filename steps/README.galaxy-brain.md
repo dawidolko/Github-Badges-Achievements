@@ -2,7 +2,7 @@
 
 <div align="center"  >
 
-<img width="296" src="../assets/badges/GalaxyBrain.png" alt="QuickDraw-Pin">
+<img width="296" src="../assets/badges/GalaxyBrain.png">
 </div>
 
 <hr>
@@ -12,7 +12,7 @@
 ### 1. You need to go to the GitHub community address (https://github.com/community/community) . And select one of the feedback categories .
 
 <div align="center">
-<img width="400" src="../img/galaxy-brain/galaxy-step1.png" alt="galaxy-brain-step1.png">
+<img width="400" src="../assets/img/galaxy-brain/galaxy-step1.png">
 </div>
 
 ### 2. Now you need to find Unanswered Question's in any categories you want . and answer the questions.
