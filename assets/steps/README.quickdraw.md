@@ -8,7 +8,7 @@
 
 <hr>
 
-## How to get Quickdraw GitHub achievement step by step :
+## How to get Quickdraw GitHub achievement step by step:
 
 ### 1. You need to create New Issue or Pull Request in any repository you want.
 
