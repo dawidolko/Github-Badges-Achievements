@@ -134,8 +134,8 @@ If you have questions or suggestions on how to improve the information on this p
 
 #### - If you need more help, click on the How to Get button to get a step-by-step tutorial on how to get this achievement.
 
-[![quickdraw](assets/img/btn.png)](assets/steps/quickdraw.md)
-<div align="center"><a href="assets/steps/quickdraw.md"><img src="assets/img/btn.png" alt=""></a></div>
+[![quickdraw](assets/img/btn.png)](assets/quickdraw.md)
+<div align="center"><a href="assets/quickdraw.md"><img src="assets/img/btn.png" alt=""></a></div>
 <hr>
 
 <br>
