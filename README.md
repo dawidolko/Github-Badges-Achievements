@@ -1,7 +1,3 @@
----
-redirect_to: achievements.dawidolko.pl
----
-
 <div align="center">
 
 # Github Badges Achievements
