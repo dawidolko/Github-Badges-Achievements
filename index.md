@@ -157,7 +157,7 @@ If you have questions or suggestions on how to improve the information on this p
 
 <br>
 
-<div align="center"  >
+<div align="center">
 <a href="assets/steps/README.galaxy-brain.md">
 <img width="296" src="assets/badges/GalaxyBrain.png" alt="GalaxyBrain-Pin">
 </a>
@@ -175,7 +175,7 @@ If you have questions or suggestions on how to improve the information on this p
 
 <br>
 
-<div align="center"  >
+<div align="center">
 <a href="assets/steps/README.pull-shark.md">
 <img width="296" src="assets/badges/PullShark.png" alt="PullShark-Pin">
 </a>
@@ -193,7 +193,7 @@ If you have questions or suggestions on how to improve the information on this p
 
 <br>
 
-<div align="center"  >
+<div align="center">
 <a href="assets/steps/README.starstruck.md">
 <img width="296" src="assets/badges/Starstruck.png" alt="Starstruck-Pin">
 </a>
@@ -211,7 +211,7 @@ If you have questions or suggestions on how to improve the information on this p
 
 <br>
 
-<div align="center"  >
+<div align="center">
 <a href="assets/steps/README.pair-extraordinaire.md">
 <img width="296" src="assets/badges/PairExtraordinaire.png" alt="PairExtraordinaire-Pin">
 </a>
@@ -229,7 +229,7 @@ If you have questions or suggestions on how to improve the information on this p
 
 <br>
 
-<div align="center"  >
+<div align="center">
 <a href="assets/steps/README.publicsponsor.md">
 <img width="296" src="assets/badges/PublicSponsor.png" alt="PublicSponsor-Pin">
 </a>
