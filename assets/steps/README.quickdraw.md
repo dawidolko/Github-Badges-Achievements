@@ -1,9 +1,3 @@
----
-layout: home
----
-
-# Quickdraw
-
 <div align="center">
   <h1>
     <img width="296" src="../badges/Quickdraw.png" alt="QuickDraw-Pin">
