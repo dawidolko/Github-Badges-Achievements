@@ -26,7 +26,7 @@ layout: home
 <img width="700" src="../img/quickdraw/quickdraw-step2.png" alt="quickdraw-step2.png">
 </div>
 
-### 3. Write Any comment you want (you can close issue or pull request without commenting too.) , And then click on Close issue / close pull request . 
+### 3. Write Any comment you want (you can close issue or pull request without commenting too.) , And then click on Close issue / close pull request. 
 
 <div align="center">
 <img width="700" src="../img/quickdraw/quickdraw-step3.png" alt="quickdraw-step3.png">
