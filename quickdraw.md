@@ -1,7 +1,3 @@
----
-layout: home
----
-
 # Quickdraw
 
 <div align="center">
