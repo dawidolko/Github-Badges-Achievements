@@ -1,4 +1,10 @@
-theme: jekyll-theme-architect
+title: GitHub Badges & Achievements
+description: A collection of badges and achievements for your GitHub profile.
 GitHub Stars: https://github.com/dawidolko/Github-Badges-Achievements
 icon: logo.png
 favicon: "logo.png"
+show_downloads: true
+theme: jekyll-theme-midnight
+github:
+  zip_url: https://achievements.dawidolko.pl/download.zip
+  another_url: another value
