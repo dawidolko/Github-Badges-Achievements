@@ -38,7 +38,10 @@ redirect_to: achievements.dawidolko.pl
 |   ![Public Sponsor](images/GitHubSponsorBadge.png)    |    Public Sponsor    | Sponsored an open source contributor through [GitHub Sponsors](https://github.com/sponsors) |                                                                                                                                                                                         <table> <thead> <tr> <th>DEFAULT</th> </tr> </thead> <tbody> <tr> <td><img src="images/GitHubSponsorBadge.png" width="60px"></td> </tr> <tr> <td align="center">1</td> </tr> </tbody> </table>                                                                                                                                                                                          |
 
 <br>
-
+<br>
+<br>
+<br>
+<br>
 # Achievement Skin Tone 👋
 
 #### Some achievements' appearance depends on your Emoji Skin Tone Preference.
