@@ -1,6 +1,3 @@
----
-redirect_to: achievements.dawidolko.pl
----
 
 <div align="center">
 
