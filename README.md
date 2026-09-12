@@ -4,8 +4,6 @@ redirect_to: achievements.dawidolko.pl
 
 <div align="center">
 
-# Github Badges Achievements
-
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/65187002/172940015-d9d072e7-c47d-4ddd-83f6-8e7717a721b8.png">
     <img src="https://user-images.githubusercontent.com/65187002/172940773-7ef23b63-3356-4634-9e52-34f2676e2854.png">
@@ -14,6 +12,36 @@ redirect_to: achievements.dawidolko.pl
     <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/65187002/172941127-4061fac1-736b-4c24-b7ea-c210b3578cc5.png">
     <img width="50%" src="https://user-images.githubusercontent.com/65187002/172941149-31258408-bfc3-496a-8a58-e34794b21813.png">
   </picture>
+
+</div>
+
+# GitHub Achievements
+
+> 🏅 **Every badge, with the numbers behind it** — a complete reference for GitHub profile achievements and the thresholds each tier requires
+
+**GitHub Achievements** documents the badges that appear on a GitHub profile: what each one is, how it is earned, and exactly how many actions each tier takes. Where GitHub states a requirement, it is here; where it does not, the entry says so rather than guessing.
+
+It also covers what the official documentation leaves out — the skin-tone variants, the badges that can no longer be earned, how the tiers work, and which achievements appear in the profile highlights.
+
+![Reference](https://img.shields.io/badge/Reference-all%20badges-2088FF?logo=github&logoColor=white)
+![Tiers](https://img.shields.io/badge/Tiers-bronze%20%E2%86%92%20gold-FFD700)
+![Jekyll](https://img.shields.io/badge/Jekyll-GitHub%20Pages-CC0000?logo=jekyll&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-green)
+
+**Browse online:** [achievements.dawidolko.pl](https://achievements.dawidolko.pl)
+
+---
+
+## 🎯 What Is Here
+
+- **Every achievement with its thresholds** — the default, bronze, silver and gold requirements side by side, so you can see how far the next tier is.
+- **Honest about the unknowns** — where GitHub has never published a threshold, the table says `(?)` instead of inventing a number.
+- **Skin-tone variants** — the badges that have them, and what they look like.
+- **Badges no longer earnable** — Arctic Code Vault Contributor and Mars 2020 Contributor, kept for the record.
+- **How tiers and highlights work** — what promotes a badge, and which ones surface on a profile.
+- **Every image in the repository** — the badge artwork is committed, so the tables render even if an external host disappears.
+
+---
 
 # Displaying Achievements
 
@@ -358,4 +386,8 @@ If you have questions or suggestions on how to improve the information on this p
   <img align="center" width="50%" src="images/PullShark_Animated.gif">
 </div>
 
-# © 2023 Dawid Olko. All rights reserved.
+---
+
+## 📄 License
+
+MIT © [Dawid Olko](https://dawidolko.pl)
