@@ -1,0 +1,6 @@
+# Wszystko w tym serwisie jest publiczne — nie ma panelu ani danych, przed
+# którymi trzeba by zamykać indeksowanie.
+User-agent: *
+Allow: /
+
+Sitemap: https://achievements.dawidolko.pl/sitemap.xml
