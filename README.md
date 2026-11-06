@@ -23,6 +23,8 @@ redirect_to: achievements.dawidolko.pl
 
 > 🏅 **Every badge, with the numbers behind it** — a complete reference for GitHub profile achievements and the thresholds each tier requires
 
+Based on [GitHub-Achievements](https://github.com/drknzz/GitHub-Achievements) by Kamil Jankowski ([drknzz](https://github.com/drknzz)), MIT licence. Badge artwork belongs to GitHub. This project is not affiliated with or endorsed by GitHub.
+
 **GitHub Achievements** documents the badges that appear on a GitHub profile: what each one is, how it is earned, and exactly how many actions each tier takes. Where GitHub states a requirement, it is here; where it does not, the entry says so rather than guessing.
 
 It also covers what the official documentation leaves out — the skin-tone variants, the badges that can no longer be earned, how the tiers work, and which achievements appear in the profile highlights.
@@ -409,7 +411,7 @@ An accessibility panel in the corner of every page changes text size, contrast, 
 
 ## 📄 License
 
-MIT © [Dawid Olko](https://dawidolko.pl)
+MIT © [Dawid Olko](https://dawidolko.pl), including text and images from [GitHub-Achievements](https://github.com/drknzz/GitHub-Achievements), MIT © Kamil Jankowski. GitHub's badge artwork is not covered by this licence, see [CREDITS.md](CREDITS.md).
 
 ---
 

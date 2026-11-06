@@ -309,3 +309,7 @@ Contributed code to a repository in the 2020 GitHub Archive Program
 
 © 2023 Dawid Olko. All rights reserved.
 {: .lede} 
+
+---
+
+Based on [GitHub-Achievements](https://github.com/drknzz/GitHub-Achievements) by Kamil Jankowski (drknzz), MIT licence. Badge artwork belongs to GitHub. This site is not affiliated with or endorsed by GitHub.
