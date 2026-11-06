@@ -1,19 +1,6 @@
----
-redirect_to: achievements.dawidolko.pl
----
-
-<div align="center">
-
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/65187002/172940015-d9d072e7-c47d-4ddd-83f6-8e7717a721b8.png">
-    <img src="https://user-images.githubusercontent.com/65187002/172940773-7ef23b63-3356-4634-9e52-34f2676e2854.png">
-  </picture><br>
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/65187002/172941127-4061fac1-736b-4c24-b7ea-c210b3578cc5.png">
-    <img width="50%" src="https://user-images.githubusercontent.com/65187002/172941149-31258408-bfc3-496a-8a58-e34794b21813.png">
-  </picture>
-
-</div>
+<p align="center">
+  <a href="https://achievements.dawidolko.pl/"><img src="docs/readme/banner.webp" alt="GitHub Achievements: resource. Every badge, with the numbers behind it" width="100%"></a>
+</p>
 
 # GitHub Achievements
 
@@ -29,6 +16,8 @@ It also covers what the official documentation leaves out — the skin-tone vari
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 **Browse online:** [achievements.dawidolko.pl](https://achievements.dawidolko.pl)
+
+**[Live site](https://achievements.dawidolko.pl/)** · [Screenshots](#️-screenshots) · [Features](#-key-features)
 
 ---
 
@@ -388,6 +377,23 @@ If you have questions or suggestions on how to improve the information on this p
 
 ---
 
+## 🖼️ Screenshots
+
+<p align="center">
+  <img src="docs/readme/desktop.webp" alt="GitHub Achievements on a desktop screen" width="74%">
+  <img src="docs/readme/mobile.webp" alt="GitHub Achievements on a phone" width="22%">
+</p>
+
+---
+
 ## 📄 License
 
 MIT © [Dawid Olko](https://dawidolko.pl)
+
+---
+
+## 👨‍💻 Author
+
+**Dawid Olko** · Fullstack / AI Developer
+
+[Portfolio](https://olkodawid.dawidolko.pl) · [CV](https://cv.dawidolko.pl) · [LinkedIn](https://www.linkedin.com/in/dawidolko/) · [GitHub](https://github.com/dawidolko)
