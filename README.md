@@ -17,7 +17,7 @@ It also covers what the official documentation leaves out — the skin-tone vari
 
 **Browse online:** [achievements.dawidolko.pl](https://achievements.dawidolko.pl)
 
-**[Live site](https://achievements.dawidolko.pl/)** · [Screenshots](#️-screenshots) · [Features](#-key-features)
+**[Live site](https://achievements.dawidolko.pl/)** · [Screenshots](#️-screenshots)
 
 ---
 
