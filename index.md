@@ -307,7 +307,7 @@ Contributed code to a repository in the 2020 GitHub Archive Program
   <img src="/assets/site/images-pullshark-animated-gif-4158110d.webp" alt="Animated Pull Shark badge" width="325" height="325" loading="lazy" decoding="async">
 </div>
 
-© 2023 Dawid Olko. All rights reserved.
+© 2023 Dawid Olko. MIT licence.
 {: .lede} 
 
 ---
