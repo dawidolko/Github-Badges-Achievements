@@ -5,6 +5,8 @@ icon: logo.png
 favicon: "logo.png"
 show_downloads: true
 theme: jekyll-theme-midnight
+url: https://achievements.dawidolko.pl
+lang: en
 # github:
 #   zip_url: https://achievements.dawidolko.pl/download.zip
 #   another_url: another value
